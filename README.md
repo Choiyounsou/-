@@ -16,8 +16,8 @@ Keras 와 TensorFlow 를 사용하여 딥러닝 모델 구축 및 훈련
 ##### 서비스 화면
 
 ![image](https://github.com/Choiyounsou/EmotionAnalysisFrom-Picture/assets/131225182/9193e80e-09e3-4d20-b8fb-55fd1019a409)
-웹 페이지 게시판 처럼 내용 불러오는 페이지 완
 
-![image](https://github.com/Choiyounsou/EmotionAnalysisFrom-Picture/assets/131225182/5c4423a3-57d8-41ef-826f-42ed859666de)
-사진 분석결과 와 movies.csv 의 feeling 결과를 토대로 랜덤한 값 7개를 추출하는 csv 완성
-웹 사이트에 DB연동
+--웹 페이지 게시판 처럼 내용 불러오는 페이지 완
+
+--사진 분석결과 와 movies.csv 의 feeling 결과를 토대로 랜덤한 값 7개를 추출하는 csv 완성
+  웹 사이트에 DB연동
